@@ -101,9 +101,17 @@ macro avg                    0.87       0.87         0.87       1748
 
 weighted avg                0.90      0.90         0.90      1748
 
+​															#############################
+
+**Deep Learning:**
+
+I've trained a deep learning model to see if we could imporve the accuracy of our predictions.
+
+The best I could obtain was an accuracy of **0.91** which is the same as the **Random Forest model**. 
 
 
-We Observe again not much difference between the models, but the Random Forest performs in better on every lines. Having also the hightest precision to detect False positives.
+
+We Observe not much difference between the models, but the Random Forest performs better in accuracy, recall and precicion. The model also has the hightest precision rate to detect False positives.
 
 I can say that the model is relatively accurate making more than 90% correct predictions.
 
